@@ -11,6 +11,12 @@
 - nginx 1.18
 - composer 2.0.14
 
+### 作業ディレクトリ
+- /workspace
+
+### rootディレクトリ
+- /workspace/public
+
 ### サービスの構築
 ```
 $ docker-compose build
